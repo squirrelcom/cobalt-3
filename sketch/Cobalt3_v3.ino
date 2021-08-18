@@ -1601,7 +1601,7 @@ void setup() {
   InitDisplay();
   Serial.begin(9600);
 
-  pfstring(F("Cobalt3 OS. Basic v1"));
+  pfstring(F("ChipOS, Basic v1"));
   Cursor = 1;
   pln();
 }
