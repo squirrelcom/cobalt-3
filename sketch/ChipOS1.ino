@@ -1,8 +1,3 @@
-/* Cobalt 3 OS v3.0
-   This fancy opensource OS can manage the display and the keyboard of 'Cobalt 3' pocket computer, and runs a modified version of tiny basic
-   Leonardo Leoni - www.el9000.cc - 18th June 2020
-   Licensed under the MIT license: https://opensource.org/licenses/MIT
-*/
 #include <Keypad.h>
 #include <SPI.h>
 
